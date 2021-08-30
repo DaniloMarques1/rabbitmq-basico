@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd1f31b-8b9c-4364-8111-82d4c581cbc4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9b06504c-37ad-45ab-92e8-5ba62e5d0bb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hotswap_agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79835c5c7b76e585a37afaa984a7b7cbd34bfd5b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8b8dc594c0e3166d72c2900c9b09e26edc307fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQSala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Consumidor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Produtor.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,49 +30,44 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1SCdrDcJcGjon4MkVLBh4qG9ec6" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xQCs7sdkwS4cWm6qb1FKu8OW6o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Consumidor">
-    <configuration name="Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gugawag.mensageria.teste.Consumidor" />
+  <component name="RunManager" selected="Application.Send3">
+    <configuration name="Send" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fitz.basic.Send" />
       <module name="RabbitMQSala" />
+      <option name="PROGRAM_PARAMETERS" value="New Task first message......." />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gugawag.mensageria.teste.*" />
+          <option name="PATTERN" value="com.fitz.basic.Send" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +75,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Produtor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gugawag.mensageria.teste.Produtor" />
+    <configuration name="Send2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.fitz.basic.Send" />
+      <module name="RabbitMQSala" />
+      <option name="PROGRAM_PARAMETERS" value="New Task Second message..........." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.fitz.basic.Send" />
+      <module name="RabbitMQSala" />
+      <option name="PROGRAM_PARAMETERS" value="New Task third message..." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worker2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.fitz.basic.Worker" />
       <module name="RabbitMQSala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gugawag.mensageria.teste.*" />
+          <option name="PATTERN" value="com.fitz.basic.Send" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,38 +104,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Consumidor" />
-        <item itemvalue="Application.Produtor" />
-      </list>
-    </recent_temporary>
+    <configuration name="Worker3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.fitz.basic.Worker" />
+      <module name="RabbitMQSala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Send" />
+      <item itemvalue="Application.Send2" />
+      <item itemvalue="Application.Send3" />
+      <item itemvalue="Application.Worker2" />
+      <item itemvalue="Application.Worker3" />
+    </list>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9cd1f31b-8b9c-4364-8111-82d4c581cbc4" name="Default Changelist" comment="" />
-      <created>1557170643737</created>
+      <changelist id="9b06504c-37ad-45ab-92e8-5ba62e5d0bb8" name="Changes" comment="" />
+      <created>1630278130047</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557170643737</updated>
-      <workItem from="1557170645199" duration="3444000" />
-      <workItem from="1557846172852" duration="593000" />
-      <workItem from="1558088292614" duration="305000" />
-      <workItem from="1558378300838" duration="562000" />
-      <workItem from="1558615991196" duration="1645000" />
-      <workItem from="1559056342885" duration="914000" />
-      <workItem from="1559171019611" duration="668000" />
-      <workItem from="1559690366204" duration="322000" />
-      <workItem from="1571071709185" duration="3882000" />
-      <workItem from="1573045278068" duration="9858000" />
-      <workItem from="1573129917604" duration="2735000" />
+      <updated>1630278130047</updated>
+      <workItem from="1630278131570" duration="239000" />
+      <workItem from="1630278405252" duration="5236000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
